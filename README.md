@@ -16,30 +16,18 @@
 
 This project focuses on the classification of plant seedlings using deep learning techniques. The goal is to develop a model that can accurately identify different types of plant species or determine the health status of seedlings based on input images.
 
+### Web App comming soon!
+
 ## Dataset
-Describe the dataset you're using. Include information about the number of classes, the size of the dataset, and any preprocessing steps you've applied. Mention whether the dataset is publicly available or if you collected it yourself.
+Dataset include 4430 files belonging to 12 classes. Dataset is publicly available [here](https://vision.eng.au.dk/?download=/data/WeedData/NonsegmentedV2.zip)
 
 ## Getting Started
-Provide instructions on setting up the project on a local machine. Include any prerequisites, installation steps for required libraries, and data download or preprocessing instructions.
+The list of Species is as follows:
 
-## Usage
-Explain how to use your project. If you've created scripts or notebooks, provide a brief overview of their functionality and how to run them.
+    Black-grass ,Charlock Cleavers, Common Chickweed ,Common wheat ,Fat Hen, Loose Silky-bent ,Maize, Scentless Mayweed, Shepherds Purse, Small-flowered Cranesbill ,Sugar beet
 
-## Model Selection
-Discuss your choice of model architecture. If you're using a pre-trained model, mention the reasons behind your selection. You can also include a high-level overview of the architecture.
+This is an plant seedling classification.I used transfer learning to classify images. The goal is to develop a model that can give more accuracy on the different species of plant.
 
-## Training
-Detail the steps to train your model. Include information about splitting the dataset, hyperparameter tuning, and any data augmentation techniques you've used. If you've used transfer learning, explain how you adapted the pre-trained model to your task.
- 
-
-## Evaluation
-Explain how you evaluated your model's performance. Include the metrics you used (e.g., accuracy, precision, recall) and how well your model performed on the validation and testing datasets.
-
-## Deployment
-Discuss how you deployed your trained model for making predictions. If you've created a deployment script, web app, or integrated the model elsewhere, provide instructions on how to access and use the deployed model.
-
-## Contributing
-If you're open to contributions, provide guidelines for other developers or researchers who might want to contribute to your project. This could include instructions on how to report issues, submit pull requests, and the coding standards you follow.
 
 
 ## License
@@ -56,4 +44,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact me!
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
-
