@@ -31,6 +31,7 @@ Discuss your choice of model architecture. If you're using a pre-trained model, 
 ## Training
 Detail the steps to train your model. Include information about splitting the dataset, hyperparameter tuning, and any data augmentation techniques you've used. If you've used transfer learning, explain how you adapted the pre-trained model to your task.
 
+
 ## Evaluation
 Explain how you evaluated your model's performance. Include the metrics you used (e.g., accuracy, precision, recall) and how well your model performed on the validation and testing datasets.
 
