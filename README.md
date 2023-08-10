@@ -46,15 +46,6 @@ If you're open to contributions, provide guidelines for other developers or rese
 
 This project is licensed under the [MIT License](LICENSE).
 
-**Refrences**
--  [Learning Phrase Representations using RNN Encoder-Decoder for
-   Statistical Machine Translation](https://arxiv.org/abs/1406.1078)_
--  [Sequence to Sequence Learning with Neural
-   Networks](https://arxiv.org/abs/1409.3215)_
--  [Neural Machine Translation by Jointly Learning to Align and
-   Translate](https://arxiv.org/abs/1409.0473)_
--  [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)_
-
 
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
